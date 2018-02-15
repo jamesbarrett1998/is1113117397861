@@ -12,10 +12,10 @@
         
     <br/>
     
-    <form method="PDST" action="Ebus2.php">
+    <form method="POST" action="Ebus2.php">
         
         <label for "salesforce">
-            <input type="radio" id="salesforce" name="product" checked onClick="DisablebtnProceed">
+            <input type="radio" id="salesforce" name="product" onClick="disablebtnProceed()">
             SalesForce @ $100
         </label>
         
@@ -39,13 +39,13 @@
         
         <label for "total">
         Total
-            <input type= "text" id="total" value="0.00" readonly/>
+            <input type= "text" id="total" name="total" value="0.00" readonly/>
             
         </label>
         
         <br/>
         
-        <button type ="submit" id="btnProceed" disable>Add to shopping Cart</button>
+        <button type ="submit" id="btnProceed" disabled>Add to shopping Cart</button>
         
         </form>
         
