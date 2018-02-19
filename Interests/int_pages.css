@@ -1,13 +1,13 @@
 #section1{
-    background-color: rgb(238, 0, 90);
+    background-image: url("https://kids.nationalgeographic.com/content/dam/kids/photos/Countries/Q-Z/spain-madrid.adapt.945.1.jpg");
 }
 
 #section2{
-    background-color: rgb(44, 62, 80);
+    background-image: url("https://populous.com/wp-content/uploads/2012/02/UniversityofMinnesotaTCFBankStadium-Minneapolis-SighlinesDusk.jpg")
 }
 
 #section3{
-    background-color: rgb(51, 153, 204);
+    background-image: url("https://www.slh.com/globalassets/country-pages/hero-images/new_zealand2.jpg");
 }
 .section{
     text-align: center;
