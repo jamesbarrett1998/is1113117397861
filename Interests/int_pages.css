@@ -1,13 +1,27 @@
 #section1{
     background-image: url("https://kids.nationalgeographic.com/content/dam/kids/photos/Countries/Q-Z/spain-madrid.adapt.945.1.jpg");
+
+height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
 }
 
+
 #section2{
-    background-image: url("https://populous.com/wp-content/uploads/2012/02/UniversityofMinnesotaTCFBankStadium-Minneapolis-SighlinesDusk.jpg")
+    background-image: url("https://populous.com/wp-content/uploads/2012/02/UniversityofMinnesotaTCFBankStadium-Minneapolis-SighlinesDusk.jpg");
+height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
 }
 
 #section3{
     background-image: url("https://www.slh.com/globalassets/country-pages/hero-images/new_zealand2.jpg");
+    height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
 }
 .section{
     text-align: center;
