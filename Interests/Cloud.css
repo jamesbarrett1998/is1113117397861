@@ -1,0 +1,19 @@
+body {
+        background-image: url("http://images.iop.org/objects/phw/news/17/9/7/clouds.jpg");
+} 
+
+.mainheading{
+    color:#000000;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+#mainheading {
+    color:#000000;
+}
+
+#p{
+    color: #000000;
+    font-family: Helvetica;
+    
+}
