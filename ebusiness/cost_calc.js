@@ -11,7 +11,7 @@ else if(document.getElementById('aws').checked){
     argSubTotal = 300;
 }
 
-else if(document.getElementById('cloud 9').checked){
+else if(document.getElementById('Cloud 9').checked){
 argSubTotal = 200;
 }
 
