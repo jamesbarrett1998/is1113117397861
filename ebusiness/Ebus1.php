@@ -2,6 +2,9 @@
 <html>
     <head>
         <title>Select Product</title>
+        
+        <link rel="stylesheet" href="Ebus.css" type="text/css" />
+        
         <!--jQuery-->
         <script src= "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script type="text/javascript" src="cost_calc.js"></script>
@@ -45,17 +48,27 @@
         
     <label for "subtotal">
         Subtotal
-            <input type= "text" id="subtotal" value="0.00" readonly/>
+            <input type= "text" id="subtotal" name="subtotal" value="0.00" readonly/>
             
         </label>
         
         <br/>
         
+        <label for "discount">
+        Discount @ 5%
+            <input type= "text" id="discount" name="discount" value="0.00" readonly/>
+            
+        </label>
+        
+        <br/>
+        
+        <label for "vat">
+        VAT
+            <input type= "text" id="vat" name="vat" value="0.00" readonly/>
+        
         <label for "total">
         Total
             <input type= "text" id="total" name="total" value="0.00" readonly/>
-            
-        </label>
         
         <br/>
         
