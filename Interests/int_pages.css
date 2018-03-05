@@ -1,6 +1,5 @@
 #section1{
     background-image: url("https://kids.nationalgeographic.com/content/dam/kids/photos/Countries/Q-Z/spain-madrid.adapt.945.1.jpg");
-
 height: 100%;
 background-position: center;
 background-repeat:no-repeat;
@@ -20,6 +19,96 @@ font-family: helvetica;
 
 #section3{
     background-image: url("https://www.slh.com/globalassets/country-pages/hero-images/new_zealand2.jpg");
+    height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
+font-family: helvetica;
+}
+.section{
+    text-align: center;
+    color:white;
+}
+
+#sports1{
+    
+    background-image: url("http://img2.thejournal.ie/article/3675478/river?version=3675494&width=1340");
+height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
+font-family: helvetica;
+
+}
+
+
+#sports2{
+    background-image: url("https://d2cx26qpfwuhvu.cloudfront.net/lions/wp-content/uploads/2017/04/28094908/Peter_OMahony2.jpg");
+    height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
+font-family: helvetica;
+}
+.section{
+    text-align: center;
+    color:white;
+}
+
+#sports3{
+    background-image: url("https://img.rasset.ie/000f5408-800.jpg");
+    height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
+font-family: helvetica;
+}
+.section{
+    text-align: center;
+    color:white;
+}
+
+#cloud1{
+    background-image: url("https://industrypulse.com/wp-content/uploads/2017/05/aws.jpg");
+    height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
+font-family: helvetica;
+}
+.section{
+    text-align: center;
+    color:white;
+}
+    
+#cloud2{
+    background-image: url("https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/8389/vz1XuNqHTyfO4YsqI3f2");
+    height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
+font-family: helvetica;
+}
+.section{
+    text-align: center;
+    color:white;
+}
+    
+#cloud3{
+    background-image: url("https://www.wired.com/wp-content/uploads/2016/04/gmail_minus.jpg");
+    height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+background-size: cover;
+font-family: helvetica;
+}
+.section{
+    text-align: center;
+    color:white;
+}
+
+#cloud4{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Salesforce_logo.svg/1200px-Salesforce_logo.svg.png");
     height: 100%;
 background-position: center;
 background-repeat:no-repeat;
