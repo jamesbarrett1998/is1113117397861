@@ -1,3 +1,10 @@
 body{
     font-family: Sans-serif	Arial;
+    background-image: url("https://www.kpipartners.com/hs-fs/hub/104260/file-680181643-png/images/cloud1.png?t=1519630609668");
+    position: absolute;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    top: 30%;
 }
+
